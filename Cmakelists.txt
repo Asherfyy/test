@@ -1,0 +1,5 @@
+# cmake_minimum_required(VESION )
+
+project(TEST)
+
+add_executable(TEST main.c test1.c)
